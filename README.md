@@ -67,12 +67,14 @@ This project involves building a predictive model to identify customers likely t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/customer-churn-prediction.git
-    cd customer-churn-prediction
+    git clone https://github.com/natek-1/churn_prediction.git
+    cd churn_prediction
     ```
 
 2. Install the required Python libraries:
     ```bash
+    conda create -y python=3.9 -n churn
+    conda activate churn
     pip install -r requirements.txt
     ```
 
