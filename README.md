@@ -100,6 +100,3 @@ This project involves building a predictive model to identify customers likely t
 - Implement a continuous integration/continuous deployment (CI/CD) pipeline for seamless updates to the model.
 - Explore more advanced feature engineering techniques for better performance.
 - Use AWS CloudWatch for real-time monitoring of the deployed model's performance.
-
-## Contact
-If you have any questions or run into issues, please contact me at your.email@example.com.

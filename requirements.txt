@@ -8,3 +8,5 @@ seaborn
 lightgbm
 scipy
 joblib
+shap
+-e .
